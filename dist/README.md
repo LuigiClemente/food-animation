@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "food-animation" generated at 2025-08-12T23:22:59.109Z.
